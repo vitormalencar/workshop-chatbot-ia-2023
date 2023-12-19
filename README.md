@@ -1,7 +1,8 @@
-# Bem-vindo ao Mini Chatbot 🤖✨
+
 
 <!-- load image from ./public/thumb.png -->
-<img src="./public/thumb.png" alt="Mini Chatbot" />
+<img src="./public/og.png" alt="Mini Chatbot" />
+
 
 ## Sobre o Projeto
 
@@ -94,7 +95,6 @@ Explore cada diretório e arquivo para entender como os componentes são organiz
 
 Se você tiver dúvidas ou precisar de ajuda, não hesite em perguntar,
 me adicione em todas as redes sociais como @vitormalencar
-
 
 - [Twitter](https://twitter.com/vitormalencar)
 - [Instagram](https://www.instagram.com/vitormalencar/)
