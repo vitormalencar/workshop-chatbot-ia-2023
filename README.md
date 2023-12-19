@@ -46,7 +46,7 @@ Antes de começar, é necessário preparar o ambiente de desenvolvimento.
 Para obter o código do projeto:
 
 - Se você já tem um conta no github: `git clone https://link-do-seu-projeto.git`.
-- Para quem não tem uma conta no github, pode cria uma  [GitHub](https://github.com/).
+- Para quem não tem uma conta no github, pode cria uma [GitHub](https://github.com/).
 
 ## 3. Instalar Dependências
 
@@ -83,7 +83,6 @@ Familiarize-se com a estrutura do projeto. Aqui está uma visão geral:
 
 Explore cada diretório e arquivo para entender como os componentes são organizados e como a aplicação é montada. Isso dará uma boa base para começar a desenvolver e contribuir para o projeto.
 
-
 ## Construindo o Chatbot
 
 - **Passo 1**: Configurando o NEXT.js e entendendo o básico.
@@ -96,9 +95,10 @@ Explore cada diretório e arquivo para entender como os componentes são organiz
 Se você tiver dúvidas ou precisar de ajuda, não hesite em perguntar,
 me adicione em todas as redes sociais como @vitormalencar
 
-Twitter: https://twitter.com/vitormalencar
-Instagram: https://instagram.com/vitormalencar
-Linkedin: https://linkedin.com/in/vitormalencar
+
+- [Twitter](https://twitter.com/vitormalencar)
+- [Instagram](https://www.instagram.com/vitormalencar/)
+- [Linkedin](https://www.linkedin.com/in/vitormalencar/)
 
 ## Contribua
 
